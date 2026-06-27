@@ -1,0 +1,864 @@
+ID,airport_name,type,country,lat,long,elevation,service
+353792,Betong International Airport,medium_airport,TH,5.79,101.15,785.0,no
+312504,Casiguran Airport,small_airport,PH,16.1941,122.0651,48.0,no
+316499,Culion Airport,small_airport,PH,11.8553,119.9378,155.0,no
+302475,Dilasag Airport,small_airport,PH,16.445833333299998,122.206805556,60.0,no
+38200,Kamiri Airfield,closed,ID,-0.971504,134.809006,54.0,no
+593331,Garuda Wisnu Kencana Cultural Park Heliport,heliport,ID,-8.808354,115.16235,315.0,no
+41497,Berau Airport,small_airport,ID,2.16350007057,117.68699646,39.0,no
+46490,Jatiwangi Airport,small_airport,ID,-6.678375,108.252219444,,no
+46594,Discovery Kartika Plaza Heliport,heliport,ID,-8.728339,115.166369,10.0,yes
+46597,Grand Inna Bali Beach Heliport,heliport,ID,-8.676952,115.265071,3.0,no
+302359,Karyadibya Helipad,heliport,ID,-7.76384709931,112.737796605,,no
+310158,Aboge Airstrip,small_airport,ID,-6.0634,139.267,53.0,no
+310161,Aboyi Airstrip,small_airport,ID,-4.288741,140.640664,828.0,no
+310167,Amazu Airstrip,small_airport,ID,-5.6119,139.6234,58.0,no
+310169,Ambisibil Airstrip,small_airport,ID,-4.67128,140.574487,6425.0,no
+310171,Angguruk Airstrip,small_airport,ID,-4.200167,139.432554,4820.0,no
+310173,Arsbol Airstrip,small_airport,ID,-3.6941,138.9372,2800.0,no
+310248,Bentiang Airstrip,small_airport,ID,0.9196,109.9155,2390.0,no
+310250,Beoga Airport,small_airport,ID,-3.8165,137.4252,6238.0,no
+310258,Bime Airstrip,small_airport,ID,-4.48558,140.219843,4483.0,no
+310260,Diphikin Airstrip,small_airport,ID,-4.725525,140.792284,5568.0,yes
+310263,Binuang Airstrip,small_airport,ID,3.7147,115.8517,2675.0,no
+310265,Biri Airstrip,small_airport,ID,-2.87793,137.76816,415.0,no
+310267,Bomela Airport,small_airport,ID,-4.693634,139.912707,5050.0,no
+310270,Bomomani Airstrip,small_airport,ID,-3.960942,135.939631,4966.0,no
+310271,Borme Airstrip,small_airport,ID,-4.394362,140.436348,3270.0,no
+310273,Kurid  Airstrip,small_airport,ID,3.798115,115.706339,3260.0,no
+310275,Bugalaga Airstrip,small_airport,ID,-3.6235,136.5963,6360.0,no
+310281,Calang Airstrip,small_airport,ID,4.612323,95.623534,32.0,no
+310291,Comoro Airstrip,small_airport,ID,-5.926349,138.631461,21.0,no
+310293,Dagai Airport,small_airport,ID,-3.305757,137.94366,347.0,no
+310295,Datah Dian Airstrip,small_airport,ID,2.006992,115.151588,1800.0,no
+310297,Daufo Airfield,small_airport,ID,-3.1737,137.2544,500.0,no
+310313,Derapos Airstrip,small_airport,ID,-2.9737,137.2234,433.0,no
+310319,Dou Airstrip,small_airport,ID,-3.262752,138.1484,299.0,no
+310321,Doyo Baru Airport,small_airport,ID,-2.538781,140.464293,385.0,no
+310323,Eaopoto Airstrip,small_airport,ID,-3.9497,136.3383,5900.0,no
+310326,Engkadik Airstrip,small_airport,ID,0.9797,110.0282,2190.0,no
+310330,Eri Airstrip,small_airport,ID,-2.637412,138.101757,440.0,no
+310332,Faowi Airstrip,small_airport,ID,-3.230632,137.726191,333.0,no
+310333,Fef Airport,closed,ID,-0.8103,132.4326,1406.0,no
+310334,Foao Airstrip,small_airport,ID,-3.066549,139.099195,241.0,no
+310338,Fruata Airstrip,small_airport,ID,-2.9858,133.5001,192.0,no
+310342,Geyarek Airstrip,small_airport,ID,-4.650391,138.752389,248.0,no
+310344,Gilgal Airstrip,small_airport,ID,0.458,111.0707,108.0,no
+310347,Gusimawa Airstrip,small_airport,ID,-3.041994,133.878175,131.0,no
+310349,Haya Airstrip,small_airport,ID,-2.8156,138.1099,250.0,no
+310351,Hing Airstrip,small_airport,ID,-1.233,133.9478,6700.0,no
+310353,Hitadipa Airport,small_airport,ID,-3.734325,137.116992,5061.0,no
+310355,Holuwon Airstrip,small_airport,ID,-4.480541,139.273998,3770.0,no
+310358,Hubliki Airstrip,small_airport,ID,-3.732237,139.286263,1970.0,no
+310360,Hulu Atas Airstrip,small_airport,ID,-3.6799,140.22955,568.0,no
+310362,Ibele Airstrip,small_airport,ID,-4.052,138.796,6320.0,no
+310397,Kaiy Airstrip,small_airport,ID,-2.9871,138.1062,195.0,no
+310399,Kaesah Airstrip,closed,ID,-7.1088,140.1265,53.0,no
+310406,Illaga III Airport,small_airport,ID,-3.9993,137.65317,7673.0,no
+310409,Ilugwa/Antara Airport,small_airport,ID,-3.835894,138.921683,6500.0,no
+310412,Iratoi Airstrip,small_airport,ID,-3.2389,137.3339,352.0,no
+310414,Iray Airstrip,small_airport,ID,-1.33034,133.91081,6464.0,no
+310416,Iwur Airstrip,small_airport,ID,-5.139139,140.717638,820.0,yes
+310422,Jila Airstrip,small_airport,ID,-4.24677,137.59563,4390.0,no
+310425,Jita Airstrip,small_airport,ID,-4.8564,137.7019,40.0,no
+310427,Kanggime Airstrip,small_airport,ID,-3.665978,138.361559,4990.0,no
+310443,Kasonaweja Airstrip,small_airport,ID,-2.3007,138.0327,88.0,no
+310445,Kaure  Airstrip,small_airport,ID,-3.469809,140.362085,700.0,no
+310449,Kedembak Airstrip,small_airport,ID,0.5906,111.302,170.0,no
+310452,Kelansam Airstrip,small_airport,ID,0.1228,111.4197,96.0,no
+310455,Keneyan Airstrip,small_airport,ID,-4.5995,138.3844,449.0,no
+310458,Kerapak Airstrip,small_airport,ID,0.0939,111.9083,157.0,no
+310463,Kiwi Airstrip,small_airport,ID,-4.697841,140.722425,5260.0,yes
+310465,Kobagma Airport,small_airport,ID,-3.666539,139.058758,3195.0,no
+310468,Komopa Airstrip,small_airport,ID,-3.7998,136.4775,5822.0,no
+310470,Koropun Airstrip,small_airport,ID,-4.479226,139.649894,5900.0,no
+310474,Kuala Kurun Airport,small_airport,ID,-1.128903,113.873075,115.0,no
+310478,Kuala Randau Airstrip,small_airport,ID,-0.582399,110.472759,240.0,no
+310480,Kustera Airstrip,small_airport,ID,-2.746014,137.919206,350.0,no
+310482,Kwerba Airstrip,small_airport,ID,-2.643549,138.40894,247.0,no
+310484,Kwijawagi,small_airport,ID,-4.0256,138.2046,9288.0,no
+311832,Alama Airstrip,small_airport,ID,-4.2631,137.892387,3350.0,no
+311869,Kangean Island Airport (planned),closed,ID,-6.86,115.299,,no
+311870,Aideralma Airstrip,small_airport,ID,-4.3341,137.8316,2730.0,no
+311871,Enggano Airport,small_airport,ID,-5.305621,102.189546,36.0,no
+311872,Apouwo Airstrip,small_airport,ID,-4.063248,135.560018,5250.0,no
+311873,Aurimi Wzil Airstrip,small_airport,ID,-2.182027,138.434418,290.0,no
+325373,Bareri Airport,small_airport,ID,-2.981631,137.783613,300.0,no
+325374,Bari Airport,small_airport,ID,-3.959166,139.901563,1660.0,no
+325377,Basiem Airport,small_airport,ID,-6.058573,138.383542,49.0,no
+325386,Awimbon Airstrip,small_airport,ID,-5.165884,140.381568,492.0,yes
+329576,Anik Airstrip,small_airport,ID,0.537465,109.742062,139.0,no
+345105,Arjasa Laok Heliport,heliport,ID,-6.87013,115.2864,75.0,no
+347113,Amandaratu Heliport,heliport,ID,-7.37058,106.48564,112.0,no
+347151,Aceh Indonesian National Police Headquarters Heliport,heliport,ID,5.57766,95.34874,16.0,no
+348750,Kubibkop Airport,small_airport,ID,-4.79436,140.69447,7470.0,yes
+348821,Korowai Batu Danowage Airport,small_airport,ID,-5.2127,140.017582,340.0,no
+350466,Denom Airstrip,small_airport,ID,-5.144915,140.967065,2200.0,no
+350468,Alemson Airstrip,small_airport,ID,-4.816571,140.222819,5200.0,yes
+350485,Kotyobakon Airstrip,small_airport,ID,-4.638376,140.654907,5100.0,yes
+350487,Binban Airstrip,small_airport,ID,-4.585309,140.533962,5200.0,yes
+350488,Kaklup Airstrip,small_airport,ID,-4.620771,140.531688,6500.0,yes
+350517,Dumpasik Airstrip,small_airport,ID,-4.455194,140.508871,4200.0,yes
+350518,Bordamban Airport,small_airport,ID,-4.439924,140.484527,3000.0,yes
+350520,Kirimu Airstrip,small_airport,ID,-4.464786,140.393016,6400.0,yes
+350539,Hangmata Airstrip,small_airport,ID,-4.49226,140.657322,3300.0,yes
+41422,Arso Airport,closed,ID,-2.933333,140.78334,208.0,no
+32626,Biak Manuhua Airport,closed,ID,-1.173038,136.081181,33.0,no
+352224,Blangkejeren Airport,small_airport,ID,3.94548,97.35968,,no
+354033,Bobkamu Airstrip,small_airport,ID,-4.463818,140.262414,4685.0,no
+354036,Kawor Airstrip,small_airport,ID,-5.232712,140.519992,469.0,no
+354037,Dewok Airport,small_airport,ID,-5.278326,140.681963,,no
+354206,Hollandia Airfield,closed,ID,-2.561139,140.479302,331.0,no
+354209,Begowre Airstrip,small_airport,ID,-2.982106,140.925279,360.0,no
+354215,Ideduna Airstrip,small_airport,ID,-3.961954,135.482025,6001.0,no
+354216,Bias Airstrip,small_airport,ID,-3.999569,140.82041,397.0,no
+354223,Dadou Airstrip,small_airport,ID,-3.686435,136.063217,4679.0,no
+354226,Daboto Airstrip,small_airport,ID,-3.295335,136.408213,2575.0,no
+354279,Kemayoran Airport,closed,ID,-6.147222,106.85,12.0,no
+356382,Grati Airport,small_airport,ID,-7.67253,113.03682,187.0,no
+356384,Jatimulyo Air Force Heliport,heliport,ID,-8.27823,113.2216,,no
+356432,Gorda Airfield,closed,ID,-6.14007,106.34389,,no
+356433,Citeurup Paraglider Airport,small_airport,ID,-6.50814,106.87836,,no
+356435,Cikembar Airport,small_airport,ID,-6.96924,106.78866,,no
+429972,Garongkong Heliport,heliport,ID,-4.37642,119.61364,,no
+430306,Asua Airport,small_airport,ID,-4.686881,140.789845,,no
+430308,Eragayam Airport,small_airport,ID,-3.733891,138.747881,,no
+430371,Bolakna Airstrip,small_airport,ID,-4.23424,140.000619,3435.0,no
+430481,bontang selatan aerodrome,closed,ID,0.034898,117.478783,,no
+430515,Cyclops Airfield,closed,ID,-2.57347,140.52553,,no
+430516,Baya Biru Airport,small_airport,ID,-3.618606,136.267033,2697.0,no
+430520,Eipomek Airstrip,small_airport,ID,-4.45584,140.02531,6155.0,no
+430521,Famek Airstrip,small_airport,ID,-4.425722,140.021954,6204.0,no
+430523,Aksal Airstrip,small_airport,ID,-4.34395,139.88754,5374.0,no
+430524,Kalbok Airstrip,small_airport,ID,-4.30181,139.80474,6138.0,no
+430525,Kono Airstrip,small_airport,ID,-4.275717,139.735893,6437.0,no
+430527,Fenteheik Airstrip,small_airport,ID,-4.21977,139.41273,6119.0,no
+430529,Asotipo Airstrip,small_airport,ID,-4.17695,138.99303,5778.0,no
+430650,Basir Airstrip,small_airport,ID,-4.372814,140.69684,1079.0,no
+430653,Dulis Airstrip,small_airport,ID,-4.077257,140.661553,860.0,no
+593334,InterContinental Bali Heliport,heliport,ID,-8.777655,115.168285,23.0,no
+505522,balikpapan helipad,heliport,ID,-1.281721,116.814587,,no
+505611,Kayuadi Airport,closed,ID,-6.857407,120.797467,43.0,no
+507227,Dhoho International Airport,medium_airport,ID,-7.749527,111.946831,380.0,yes
+507645,Helariki Airstrip,small_airport,ID,-4.176059,139.439353,4900.0,no
+517550,Batam Police Heliport,heliport,ID,1.161152,104.121119,115.0,no
+527780,Bela Airstrip,small_airport,ID,-4.250278,137.850278,,no
+530406,Amman Mineral Nusa Tenggara Airport (under construction),closed,ID,-8.592566,116.793819,33.0,no
+535826,Kantor Besar Lengadang Estate Airstrip,small_airport,ID,-2.2618,112.11646,,no
+535829,Batu Manangis Airport,small_airport,ID,-2.15009,112.26928,157.0,no
+593335,Fly Bali Heliport,heliport,ID,-8.83996,115.16181,367.0,no
+593337,Balicopter Klapa Helicopter Landing Area,heliport,ID,-8.80247,115.12569,157.0,no
+593338,JAG Heliport,heliport,ID,-8.83107,115.20812,210.0,no
+593349,Joyo's Heliport,heliport,ID,-8.73018,114.35113,17.0,no
+593377,Jati Papak Airstrip,small_airport,ID,-8.54091,114.3755,39.0,no
+26795,Jefman Airport,closed,ID,-0.926358,131.121002,10.0,no
+41376,Keisah Airport,closed,ID,-7.70226,140.512932,54.0,no
+41461,Kisaran Airport,closed,ID,2.97379,99.600998,96.0,no
+41469,Keluang Airport,closed,ID,-2.640962,103.914557,76.0,no
+41473,Beringin Airport,closed,ID,-0.942549,114.89399,126.0,no
+41479,Kalabahi Airport,closed,ID,-8.216667,124.566666,33.0,no
+32654,Helvetia Airport,small_airport,ID,3.68306,98.644203,49.0,no
+41438,Kota Mobagu/Mopait Airport,closed,ID,0.686111,124.273611,584.0,no
+594079,Giliyang Heliport,heliport,ID,-7.00218,114.17324,59.0,no
+594082,Holcim Tuban Heliport,heliport,ID,-6.81441,111.88536,105.0,no
+594196,Bukit Mulia Airport,small_airport,ID,-3.79107,115.29557,82.0,no
+594201,Kintap Airport,small_airport,ID,-3.8244,115.1825,66.0,no
+594433,Gudang Garam Heliport,heliport,ID,-7.71802,113.52407,33.0,no
+595432,Apogomakida Airstrip,small_airport,ID,-4.00453,135.49515,5988.0,no
+599490,Balinggama Airstrip,small_airport,ID,-4.348044,139.319022,7411.0,no
+599498,Kweapbel Airstrip,small_airport,ID,-4.380903,138.684517,7247.0,no
+599500,Gingginem Airstrip,small_airport,ID,-4.41147,138.6815,5504.0,no
+599503,Bikgunulingge Airstrip,small_airport,ID,-4.431974,138.666689,6605.0,no
+599504,Bina Airstrip,small_airport,ID,-3.706185,137.728514,5265.0,no
+599507,Ipdeheik Airstrip,small_airport,ID,-4.377306,139.319633,7897.0,no
+599508,Eyub Airstrip,small_airport,ID,-4.534076,139.766729,6751.0,no
+599513,Amuma Airstrip,small_airport,ID,-4.473639,138.986646,5798.0,no
+599518,Aniek Airstrip,small_airport,ID,-4.441464,139.309477,5659.0,no
+600726,Helipad Koptu Legi,heliport,ID,3.256464,97.18706,30.0,no
+602509,Dagi Baru Airstrip,small_airport,ID,-4.530773,139.627377,5523.0,no
+602510,Hogio Airstrip,small_airport,ID,-4.428133,139.135677,5945.0,no
+602511,Kemligin Airstrip,small_airport,ID,-4.565714,139.662389,6700.0,no
+602512,Duram Airport,small_airport,ID,-4.473184,139.618372,7360.0,no
+602515,Bisek Airstrip,small_airport,ID,-4.350767,139.249926,7374.0,no
+602518,Kosorek Airport,small_airport,ID,-4.127259,139.531326,4722.0,no
+605114,Burumeso Airstrip,small_airport,ID,-2.353127,137.998064,193.0,no
+605115,Beoga Airstrip,small_airport,ID,-3.019129,137.2844,,no
+605870,Grosberg Mine Heliport,heliport,ID,-4.062167,137.146387,12913.0,no
+605895,Kabare Airport,small_airport,ID,-0.05022,131.001631,41.0,no
+606167,Felix Demin Heliport,heliport,ID,-8.82103,115.12648,531.0,no
+606168,Basarnas Heliport,heliport,ID,-8.75546,115.16815,16.0,no
+607494,Kapiraya Airstrip,small_airport,ID,-4.411759,135.998729,161.0,no
+607495,Kilmit Airstrip,small_airport,ID,-4.309575,138.122154,3291.0,no
+41361,Apalapsili Airport,small_airport,ID,-3.882495,139.310932,3100.0,no
+41362,Anggi Airport,small_airport,ID,-1.3858,133.8737,6644.0,no
+41363,Astra Ksetra Airport,small_airport,ID,-4.611588,105.231968,99.0,no
+41366,Boalang Airport,small_airport,ID,-0.972896,122.144997,146.0,no
+41369,Elelim Airport,small_airport,ID,-3.785922,139.384497,1490.0,no
+41370,Ewer Asmat Airport,small_airport,ID,-5.496185,138.078361,27.0,no
+31515,Gag Island Airport,small_airport,ID,-0.400556,129.895004,1.0,no
+41371,Ilu Airport,small_airport,ID,-3.7051,138.2002,6408.0,no
+41378,Kotabangun Airport,small_airport,ID,-0.266669988632,116.583335876,13.0,no
+41379,Departi Parbo Airport,small_airport,ID,-2.094042,101.47025,2600.0,yes
+41381,Kelila Airport,small_airport,ID,-3.728968,138.710117,9092.0,no
+41388,Banaina Airport,small_airport,ID,2.72305011749,117.125999451,60.0,no
+29639,Bilorai Airport,medium_airport,ID,-3.739503,137.031183,7348.0,yes
+319816,Jos Orno Imsula Airport,small_airport,ID,-8.140683,127.909669,43.0,yes
+339963,Dara Sakor International Airport,large_airport,KH,10.914244,103.226652,60.0,yes
+31781,Kratie Airport,closed,KH,12.489017,106.05469,102.0,no
+313437,Kampot Airport,closed,KH,10.6343,104.1617,44.0,no
+605566,Chip Mong Heliport,heliport,KH,11.523714,104.922565,20.0,no
+343796,Kuala Batu Airport,small_airport,ID,3.735749,96.790109,3.0,no
+44572,Kimaam Airport,small_airport,ID,-7.97789,138.851776,26.0,no
+430337,Khoksa Airfield,small_airport,LA,18.068039,102.910591,,no
+430434,Bokeo International Airport,medium_airport,LA,20.323986,100.165392,1175.0,yes
+508578,Above Laos Ballooning,balloonport,LA,18.911778,102.405238,873.0,no
+42456,Hanthawaddy International Airport (under construction),closed,MM,17.3005,96.4276,138.0,no
+42457,Hinthada Airport,small_airport,MM,17.633329391500002,95.4666976929,32.0,no
+603355,Hanthawaddy International Airport (Under Construction),closed,MM,17.300476,96.427308,,no
+339962,Cameron Highlands Airstrip,small_airport,MY,4.440291,101.421724,,no
+339977,KD Sultan Ismail Heliport,heliport,MY,1.372145,104.093959,,no
+339978,KD Malaya Heliport,heliport,MY,4.23302,100.61787,,no
+354857,Istana Negara Helipad,heliport,MY,3.161877,101.666788,,no
+41346,Hunter (Morotai) Airport,small_airport,MY,4.41038990020752,117.78700256347656,175.0,no
+41347,Jeroco Airport,small_airport,MY,5.406111240386963,118.3963851928711,60.0,no
+41348,Kelabakan Airport,small_airport,MY,4.416388988494873,117.49639129638672,257.0,no
+41349,Kuala Kahaba Airport,small_airport,MY,5.11638879776001,116.14666748046876,1250.0,no
+41350,Kuala Medamit Airport,small_airport,MY,4.466390132904053,114.91300201416016,50.0,no
+354864,KLATCC Heliport,heliport,MY,2.764049,101.701175,,no
+354866,Johor Polo Club Helipad,heliport,MY,1.479169,103.78247,,no
+356343,Genting Heliport,heliport,MY,3.42491,101.7914,,no
+356347,Felda Air Tawar Airport,closed,MY,1.67001,104.02488,,no
+356348,Felda Lok Heng Airport,small_airport,MY,1.6945,104.08725,,no
+356349,Felda Semenchu Airport,closed,MY,1.58898,104.16391,,no
+32661,Bentong Airport,closed,MY,3.550811,101.894041,350.0,no
+41314,Genting Airport,closed,MY,2.11666703224,111.699996948,13.0,no
+41322,Bahau Airport,closed,MY,2.81667,102.417,214.0,no
+301254,Boun Neau Airport,small_airport,LA,21.6475,101.9,3050.0,no
+308653,Azagra Airstrip,small_airport,PH,12.2799,122.6246,10.0,no
+321220,Don Jesus Soriano (Doña Rosario) Airstrip,small_airport,PH,9.16944,125.56027,59.0,no
+325553,Chevron Terminal Heliport,heliport,PH,13.78246,121.022376,,no
+325554,Cochem Heliport (Danglayan),heliport,PH,13.78058,121.01412,,no
+325565,JG Summit Olefins Corporation (Pinamucan) Helipad,heliport,PH,13.677734,121.056255,,no
+325566,Himmel Industries Tank Farm Heliport,heliport,PH,13.687759,121.050983,,no
+325574,KEPCO Ilijan Power Plant Heliport,heliport,PH,13.62061,121.076908,,no
+325585,Bayview Accommodations Heliport,heliport,PH,13.92418,121.704224,,no
+325711,Dinapigue Airstrip,small_airport,PH,16.521518,122.264357,,no
+325757,Bauang Power Plant Heliport,heliport,PH,16.489863,120.32767,,no
+325758,Bauang Power Plant Helipad,heliport,PH,16.490059,120.326997,,no
+325770,Baquioen Heliport,heliport,PH,16.084522,120.110154,,no
+325809,Bataan Nuclear Power Plant Heliport,heliport,PH,14.630793,120.315316,,no
+325865,Joy-Nostalg Heliport,heliport,PH,14.587555,121.060106,,no
+325875,BDO Corporate Center Heliport,heliport,PH,14.585865,121.059189,,no
+325876,Discovery Suites Heliport,heliport,PH,14.585852,121.060233,,no
+325884,iSquare Heliport,heliport,PH,14.5856,121.06338,,no
+325887,Eton Cyberpod Helipads,heliport,PH,14.592181,121.060324,,no
+325895,CCP Open Grounds Heliport,heliport,PH,14.552598,120.983714,20.0,no
+325896,Conrad Manila Hotel Heliport,heliport,PH,14.531926,120.980394,,no
+325906,Fort San Felipe Naval Logistics Center Heliport,heliport,PH,14.483864,120.917295,3.0,no
+325908,Capipisa (Tanza) Heliport,heliport,PH,14.348114,120.781138,,no
+325912,General Gregorio Lim Marine Base Heliport,heliport,PH,14.267422,120.626543,,no
+325938,Fuga Airstrip,small_airport,PH,18.863326,121.283612,,no
+325939,Barit Island Airstrip,closed,PH,18.869946,121.256533,92.0,no
+325946,Camalaniugan Airport,closed,PH,18.301036,121.664958,,no
+593345,Camaya Coast Airport,small_airport,PH,14.44802,120.42486,250.0,no
+325950,Jose Paredes Airbase,small_airport,PH,18.402542,120.666339,,no
+325951,Divilacan Airstrip,closed,PH,17.332368,122.299504,26.0,no
+325972,Clark International Airport South Ramp Heliport,heliport,PH,15.172336,120.545547,,no
+325979,Corregidor South Dock Heliport,heliport,PH,14.384889,120.58748,,no
+325980,Corregidor Parade Ground Heliport,heliport,PH,14.38051,120.574514,,no
+325985,Acoje Airport,closed,PH,15.689508,120.054624,,no
+325986,Alto Airfield,closed,PH,15.424775,120.631911,,no
+325987,Alto Airfield Helipad,heliport,PH,15.423048,120.6344,,no
+325988,Apuao Grande Island Airstrip,small_airport,PH,14.084946,123.092194,,no
+325990,Barlo Airstrip,closed,PH,15.993665,119.921908,,no
+325992,Binalonan Airport,small_airport,PH,16.052041,120.582225,,no
+325994,Bundagul Airstrip,closed,PH,15.240879,120.599016,,no
+325995,Cabaluyan Airstrip,small_airport,PH,15.689794,120.330656,276.0,no
+325996,Calatagan (Hacienda Zobel) Airstrip,closed,PH,13.843496,120.633745,,no
+325997,Calatagan (Hacienda Bigaa) Heliport,heliport,PH,13.848569,120.635766,,no
+325998,Dibagat Airstrip,small_airport,PH,18.080335,121.099768,,no
+326000,Hermana Mayor Island Airstrip,small_airport,PH,15.781981,119.793205,,no
+326001,Hermana Menor Island Airstrip,small_airport,PH,15.735475,119.82478,,no
+326002,Ibonan Airstrip,small_airport,PH,15.304634,121.375591,,no
+326008,Cojuangco Airstrip,small_airport,PH,15.674114,120.600357,,no
+326020,Camp Capinpin Airstrip,small_airport,PH,14.53567,121.364572,1297.0,no
+326024,Cabanatuan Airstrip (Camp Tinio),closed,PH,15.486231,121.042396,,no
+326025,Canlubang Airstrip,closed,PH,14.22367,121.09927,,no
+326026,Echague Airstrip,closed,PH,16.701018,121.650809,,no
+326033,Ayala Tower One /  Philippine Exchange Plaza Heliport,heliport,PH,14.55664,121.022483,,no
+326035,Enterprise Center Heliport,heliport,PH,14.556181,121.021222,,no
+326036,BDO Equitable Bank Tower Heliport,heliport,PH,14.558072,121.023867,,no
+326037,BPI Computer Systems Corporation Heliport,heliport,PH,14.557999,121.023429,,no
+326038,Citibank Tower Heliport,heliport,PH,14.558932,121.025219,,no
+326039,Gercon Plaza Heliport,heliport,PH,14.559525,121.026437,,no
+326041,Eurovilla III Heliport,heliport,PH,14.559841,121.024752,,no
+326042,Four Seasons Heliport,heliport,PH,14.560433,121.023097,639.0,no
+326047,BPI Buendia Center Heliport,heliport,PH,14.561497,121.026426,,no
+326048,Development Bank of the Philippines Heliport,heliport,PH,14.560899,121.027962,,no
+326051,Export Bank Plaza Heliport,heliport,PH,14.559421,121.011615,,no
+326054,Cocolife Building Heliport,heliport,PH,14.559587,121.017526,,no
+326055,Easton Place Heliport,heliport,PH,14.559381,121.019807,,no
+326056,Allied Bank Center Heliport,heliport,PH,14.554888,121.023465,,no
+326058,Frabella I Condominiums Heliport,heliport,PH,14.555952,121.01809,,no
+326062,Discovery Primea Heliport,heliport,PH,14.553579,121.026737,,no
+326064,Asian Development Bank Heliport,heliport,PH,14.588634,121.058331,,no
+326066,Ever Gotesco – Commonwealth Heliport,heliport,PH,14.678164,121.085228,,no
+326068,Government Arsenal Heliport,heliport,PH,14.507939,120.586678,,no
+326095,Camp Panacan Heliport,heliport,PH,7.153643,125.661648,,no
+326143,Findlay Millar Lumber Airstrip,closed,PH,8.11027,123.88301,3.0,no
+326186,Balamban Heliport,heliport,PH,10.470439,123.69704,,no
+326192,BDO ATM – Steag Coal Power Plant Villanueva Heliport,heliport,PH,8.565884,124.762319,,no
+326201,Edwin Andrews Air Force Base Heliport,heliport,PH,6.924595,122.065895,,no
+326269,Isabela Airstrip,closed,PH,6.688227,121.947518,,no
+334477,Air Juan Seaplane Base,closed,PH,14.556705,120.979401,,no
+334814,Federal Tower Helipad,heliport,PH,14.596645,120.9743,,no
+335115,Chatham House Helipad,heliport,PH,14.559565,121.019472,,no
+335147,Bataan 2020 Helipad,heliport,PH,14.768859,120.504089,,no
+337332,Bicobian Bay Airstrip,small_airport,PH,17.34772,122.36638,26.0,no
+336088,Batangas Airfield,closed,PH,13.77203,121.06114,,no
+336812,Angeles University Medical Center Helipad,heliport,PH,15.144919,120.594875,,no
+336815,Anvaya Cove Heliport,heliport,PH,14.71879,120.27186,,no
+336818,Bataan Field,closed,PH,14.45046,120.57002,,no
+336820,Ernajos Strip,closed,PH,15.99894,120.79146,,no
+336821,Carranglan Airstrip,closed,PH,15.980973,121.040325,,no
+337346,Catanauan Airstrip,closed,PH,13.58833,122.27916,,no
+337347,Buenavista Airfield,closed,PH,8.94222,125.39722,53.0,no
+337349,Doña Flavia Airstrip,closed,PH,8.46837,125.71063,184.0,no
+337350,Kasapa Airstrip,small_airport,PH,8.1654,125.6345,577.0,no
+337354,Guianga Airstrip,closed,PH,7.09551,125.39023,2402.0,no
+337355,Consuelo Airstrip 1,small_airport,PH,7.64333,126.09444,,no
+337356,Consuelo Airstrip 2,closed,PH,7.633222,126.088913,,no
+337357,Cogonon Airstrip,closed,PH,7.58916,126.11055,,no
+337358,Dizon Airstrip,closed,PH,7.48762,125.93749,,no
+337366,Air Juan Boracay Seaplane Terminal,closed,PH,11.97444,121.91277,,no
+337652,Dewey Boulevard Airstrip,closed,PH,14.5775,120.9786,,no
+337681,Air Juan Puerto Galera Seaplane Base,closed,PH,13.50946,120.94719,,no
+337683,Angeles West Airfield,closed,PH,15.13013,120.56456,,no
+337688,Balara Airfield,closed,PH,14.66194,121.06533,,no
+337762,DOST-PCAARRD Heliport,heliport,PH,14.17417,121.22434,,no
+337802,Fastech Helipad,heliport,PH,14.23451,121.09219,,no
+337806,Cuyapo Airstrip,closed,PH,15.81936,120.68967,,no
+337807,Bitulok Airstrip,small_airport,PH,15.48505,121.28535,,no
+337813,Camp Aquino Heliport,heliport,PH,15.441902,120.592082,,no
+337817,Camp John Hay Forest Lodge Helipad,heliport,PH,16.40193,120.61779,,no
+337818,Camp John Hay White House Heliport,heliport,PH,16.40271,120.61718,4895.0,no
+337819,Camp John Hay Country Estates Helipad,heliport,PH,16.40269,120.61818,4905.0,no
+337825,Calayan Airport,small_airport,PH,19.25716,121.489145,,no
+337844,General Emilio Aguinaldo Airstrip,small_airport,PH,12.81818,120.88265,,no
+337845,Cagsiay Airstrip,closed,PH,14.2226,121.74419,,no
+337846,Balayan (Magabe) Airfield,closed,PH,13.95161,120.73582,,no
+337847,Coral Shores Heliport,heliport,PH,13.78265,120.65162,,no
+337850,Caballo Island Naval Heliport,heliport,PH,14.36905,120.62231,,no
+338288,Government Service Insurance System (GSIS) Complex Helipad,heliport,PH,14.546694,120.984036,,no
+339276,Gapuzan Trucking Inc Helipad,heliport,PH,14.44834,120.97913,,no
+339289,Iloilo/Mandurriao Airport,closed,PH,10.71271,122.54524,25.0,no
+339311,Hamilo Coast Helipad,heliport,PH,14.18891,120.61506,,no
+339313,Camella Lipa Helipad,heliport,PH,13.95959,121.15171,,no
+339321,Classica Tower Heliport,heliport,PH,14.561269,121.023808,,no
+339322,Grand Soho Makati Heliport,heliport,PH,14.561679,121.023154,,no
+339323,ACT Tower Heliport,heliport,PH,14.561731,121.02266,,no
+340072,Camp Crame Heliport,heliport,PH,14.60811,121.05508,,no
+340073,Aurora Tower Heliport,heliport,PH,14.62278,121.05357,,no
+341180,Angeles Airfield,closed,PH,15.12128,120.59572,,no
+341181,Angeles Northeast Airfield,closed,PH,15.15326,120.60049,,no
+341182,Grace Park / Manila North Airfield,closed,PH,14.65135,120.99138,,no
+341398,Fairways Tower Helipad,heliport,PH,14.54604,121.04527,,no
+341534,James Steelworks Heliport,heliport,PH,14.53525,121.36838,,no
+341535,Cavite Naval Hospital Heliport,heliport,PH,14.48352,120.913495,7.0,no
+341538,Island Cove Heliport,heliport,PH,14.46306,120.92336,,no
+341579,Belvedere Tower Helipad,heliport,PH,14.57963,121.05879,,no
+341584,AIC Burgundy Empire Tower Helipad,heliport,PH,14.58969,121.06098,,no
+341585,Crowne Plaza Manila Galleria Helipad,heliport,PH,14.59077,121.06096,,no
+341587,Antel Global Business Center Helipad,heliport,PH,14.58398,121.06289,,no
+341588,Avant Garde Residences Helipad,heliport,PH,14.58359,121.06325,,no
+341591,Holiday Inn Galleria Manila Helipad,heliport,PH,14.59002,121.06019,,no
+341592,Caswynn Building Helipad,heliport,PH,14.63256,121.0439,,no
+341593,GMA Network Tower Helipad,heliport,PH,14.6334,121.04391,,no
+341594,Eton Centris Heliport,heliport,PH,14.64118,121.04029,,no
+341595,Eton Heliport,heliport,PH,14.64213,121.04137,,no
+341597,DILG-NAPOLCOM Center Helipad,heliport,PH,14.64463,121.03669,,no
+342185,A O Floirendo Airstrip,small_airport,PH,7.38908,125.57206,118.0,no
+342187,Evergreen Farms Airstrip,closed,PH,7.30567,125.65782,58.0,no
+342188,Kasilak Airstrip,small_airport,PH,7.3335,125.5971,108.0,no
+342564,Alpha Saucedo Condominium Helipad,heliport,PH,14.5611,121.02267,518.0,no
+343583,ABS-CBN Building Helipad,heliport,PH,14.63962,121.03531,,no
+343728,Camp Bagong Diwa Heliport,heliport,PH,14.48844,121.05724,100.0,no
+343729,Fort Victoria Tower A Helipad,heliport,PH,14.54727,121.04572,,no
+343730,Fort Victoria Tower B Helipad,heliport,PH,14.54695,121.04552,,no
+343731,Fort Victoria Tower C Helipad,heliport,PH,14.54686,121.04591,,no
+343737,Eight Forbestown Road Helipad,heliport,PH,14.55059,121.04393,,no
+343738,Fort Legend Tower Helipad,heliport,PH,14.5541,121.04693,,no
+343739,Globe Tower Helipad,heliport,PH,14.55344,121.05003,,no
+343743,Essensa 1 Helipad,heliport,PH,14.54381,121.04649,,no
+343744,Del Rosario Law Building Helipad,heliport,PH,14.54355,121.04729,,no
+343745,Essensa 2 Helipad,heliport,PH,14.54294,121.04682,,no
+343749,Antel Platinum Towers Helipad,heliport,PH,14.55915,121.02405,,no
+343750,Forbes Tower West Helipad,heliport,PH,14.55968,121.02547,,no
+343772,Baliuag Heliport,heliport,PH,14.96542,120.8948,59.0,no
+343846,Bamban Airfield,small_airport,PH,15.30142,120.58954,187.0,no
+343847,Angeles South (Lara) Airfield,closed,PH,15.08077,120.60094,190.0,no
+343907,Kawit Airfield,closed,PH,14.41484,120.90789,,no
+344152,Camp O'Donnell Officer Candidate School Heliport,heliport,PH,15.36891,120.50915,374.0,no
+344153,Camp O'Donnell Armor School Heliport,heliport,PH,15.37752,120.50944,377.0,no
+344465,BPI-Philam Life Makati Helipad,heliport,PH,14.55976,121.0173,,no
+344466,GT Tower Helipad,heliport,PH,14.56006,121.01691,,no
+344468,Cityland Herrera Tower Helipad,heliport,PH,14.55899,121.01964,,no
+345015,Cabcaben Airfield,closed,PH,14.45437,120.59218,36.0,no
+345017,Akle Airfield,closed,PH,15.04659,121.07582,285.0,no
+348303,AES Masinloc Heliport,heliport,PH,15.574906,119.923746,62.0,no
+348388,Kling Airport,small_airport,PH,5.93761,124.74409,128.0,no
+348659,Inandeng Airport,closed,PH,10.52637,119.2811,20.0,no
+348729,Cordon Airport,small_airport,PH,16.65674,121.43291,538.0,no
+349208,FKauley Skyranch,closed,PH,9.909174,123.590131,522.0,no
+349209,Casay Airstrip,closed,PH,9.821379,123.547936,157.0,no
+349552,Dacudao Airport,small_airport,PH,7.2289,125.45724,732.0,no
+349555,Aras-Asan Airstrip,closed,PH,8.90661,126.299658,16.0,no
+349556,Bad-As Airport,closed,PH,9.63305,125.55638,344.0,no
+349557,Barobo (Bahi) Airfield,closed,PH,8.53277,126.06861,180.0,no
+349558,Diatagon Airport,closed,PH,8.66363,126.13471,13.0,no
+349562,Elmore Airfield,closed,PH,12.43947,121.08588,85.0,no
+349563,Hill Airfield,closed,PH,12.39112,121.05336,33.0,no
+349565,Agutaya Airport,small_airport,PH,11.15911,120.95376,,no
+32225,Former Lucena Airport,closed,PH,13.931193,121.6011,39.0,no
+309720,Aparri (Maura) Airport,small_airport,PH,18.35485,121.653907,19.0,no
+351511,Bukidnon Domestic Airport (under construction),closed,PH,7.70649,124.94924,,no
+351513,Del Monte Plantation Airport,small_airport,PH,8.34813,124.85059,1973.0,no
+351518,Datu Paglas Airstrip,small_airport,PH,6.75625,124.85329,75.0,no
+351519,Digal Airport,small_airport,PH,6.73805,124.82675,61.0,no
+351520,Central Mindanao Airport,medium_airport,PH,6.91229,124.92446,164.0,no
+351881,Boracay Helicopter Adventures Heliport,heliport,PH,11.9947,121.92152,101.0,no
+351882,GreenHeli Boracay Heliport,heliport,PH,11.95887,121.93209,,no
+351910,Chinese General Hospital Heliport,heliport,PH,14.62562,120.98875,,no
+353427,Dahilayan Heliport,heliport,PH,8.21836,124.85042,3747.0,no
+353720,Isabela Provincial Capitol Heliport,heliport,PH,17.10351,121.86579,218.0,no
+354412,Candaraman Airport,small_airport,PH,8.076386,117.108078,36.0,no
+354413,Candaraman Island Helipad,heliport,PH,8.082791,117.101292,,no
+354951,Bugsuk (Bonbon) Airport,small_airport,PH,8.228346,117.328627,,no
+355929,ABCI Heliport,closed,PH,8.42827,124.62498,354.0,no
+356047,Didipio Heliport,heliport,PH,16.321,121.44424,2402.0,no
+356408,Batag Airport,small_airport,PH,12.61662,125.05035,46.0,no
+430069,Camotes Airstrip,small_airport,PH,10.65955,124.37011,70.0,no
+430070,Air Juan Cebu City South Road Properties Seaplane Terminal,closed,PH,10.26509,123.87812,,no
+430072,Clark Balloonport,balloonport,PH,15.17718,120.57656,,no
+430581,Busuanga Bay Lodge Seaplane Terminal,seaplane_base,PH,12.0231,119.97753,,no
+430582,Huma Island Resort Seaplane Terminal,seaplane_base,PH,12.05337,119.90455,,no
+430584,Coron Rural Airport,small_airport,PH,12.01289,120.2007,69.0,no
+430596,Daja Airstrip,closed,PH,11.56298,122.30838,98.0,no
+430597,Ferrol (Odiongan) Airstrip,closed,PH,12.34482,121.93992,98.0,no
+504731,Isugod Airstrip,small_airport,PH,9.3339,118.13615,,no
+504732,Berong Airport,small_airport,PH,9.47611,118.20977,,no
+504733,Apurawan Airport,small_airport,PH,9.59763,118.33837,23.0,no
+504735,Bato Airport,small_airport,PH,10.70576,119.486132,,no
+504814,Brooke's Point Airstrip,closed,PH,8.80757,117.84951,36.0,no
+504816,Bataraza Airport,small_airport,PH,8.67187,117.61865,39.0,no
+504819,Camp Sang-an Heliport,heliport,PH,7.90848,123.49824,348.0,no
+504820,Camp Peralta Heliport,heliport,PH,11.39103,122.43972,531.0,no
+504821,Camp Dela Cruz Heliport,heliport,PH,17.072498,121.86519,230.0,no
+504822,Camp Lukban Heliport,heliport,PH,11.78929,124.8683,34.0,no
+504823,Camp Lim Heliport,heliport,PH,14.21393,121.12042,167.0,no
+504824,Camp Angeles Heliport,heliport,PH,13.61704,123.30066,407.0,no
+504825,Camp Abat Heliport,heliport,PH,16.0489,120.49207,141.0,no
+504826,Camp Riego de Dios Heliport,heliport,PH,14.326586,120.852265,167.0,no
+504829,Biliran Heliport,heliport,PH,11.46335,124.47474,3.0,no
+504832,Guimaras Airport,small_airport,PH,10.69421,122.66521,262.0,no
+504836,Cunanan Wharf Heliport,heliport,PH,14.5825,120.97198,3.0,no
+504852,Burgundy Corporate Tower Helipad,heliport,PH,14.56012,121.01297,,no
+504854,Camilla & Lumina Heliport,heliport,PH,14.33772,120.84754,141.0,no
+504855,Caylabne Bay Resort Heliport,heliport,PH,14.27201,120.6482,30.0,no
+504862,Anflo Airstrip,small_airport,PH,6.9067,126.07623,108.0,no
+504869,Balabagan Airport,small_airport,PH,7.51461,124.12312,49.0,no
+504870,Kalamansig Airport,small_airport,PH,6.56,124.05329,23.0,no
+504871,Bascon Heliport,heliport,PH,6.46383,124.87102,276.0,no
+504873,Danao Ultralight Airport,small_airport,PH,9.96899,124.20284,328.0,no
+504874,Kenram Airport,closed,PH,6.66047,124.61174,197.0,no
+504876,Cleveland Tower Helipad,heliport,PH,14.510671,120.977443,,no
+504877,Burgundy McKinley Place Helipad,heliport,PH,14.510411,120.977905,,no
+504879,Five E-Com Center Helipad,heliport,PH,14.53931,120.98245,,no
+504880,City of Dreams Manila Helipad,heliport,PH,14.524906,120.99234,,no
+504882,Amoroy Airport,small_airport,PH,12.50281,123.37509,49.0,no
+504883,Calanay Airport,small_airport,PH,12.4623,123.28436,69.0,no
+504897,Camp Nakar Heliport,heliport,PH,13.95408,121.60985,118.0,no
+508668,Bacuyangan Airfield,closed,PH,9.633839,122.459548,20.0,no
+508738,Honda Cars Pampanga Heliport,heliport,PH,15.05015,120.66596,62.0,no
+508744,Cabcaben Heliport,heliport,PH,14.44453,120.58574,15.0,no
+508760,Adventure Beach Heliport,heliport,PH,14.76451,120.25655,13.0,no
+508761,George Dewey Medical Center Heliport,heliport,PH,14.77411,120.3067,594.0,no
+514793,Araneta Center Helipad,heliport,PH,14.620873,121.051308,,no
+516438,Basay Emergency Airport,small_airport,PH,9.46974,122.66149,1112.0,no
+516444,Kabankalan City Domestic Airport (under construction),closed,PH,10.007355,122.851797,194.0,no
+516554,Asturias Airstrip,closed,PH,10.540039,123.745703,69.0,no
+533505,Camella Santo Tomas North Trails Helipad,heliport,PH,14.10112,121.16911,581.0,no
+535032,Cagayancillo Airstrip,small_airport,PH,9.56956,121.18637,20.0,no
+535035,Gingoog Airfield,closed,PH,8.8207,125.10667,,no
+538646,Bayug Airfield,closed,PH,10.9804,124.90742,149.0,no
+538648,Buri Airfield,closed,PH,10.99169,124.90239,177.0,no
+538649,Dulag Airfield,closed,PH,10.95417,125.01019,36.0,no
+538869,Carolina Airport,closed,PH,10.96075,123.17653,59.0,no
+553623,Ayala Tower 2 Helipad,heliport,PH,14.557678,121.025513,,no
+559667,Camp Aguinaldo Heliport,heliport,PH,14.609476,121.062922,190.0,no
+562071,Inampologan Island Private Airstrip,small_airport,PH,10.46654,122.6907,56.0,no
+562072,Guimaras Provincial Capitol Heliport,heliport,PH,10.59856,122.58885,558.0,no
+562073,Alvarez Airport,small_airport,PH,10.01272,122.79238,30.0,no
+562344,BMG Centre Heliport,heliport,PH,14.53729,121.017819,,no
+562346,Asian Century Center Heliport,heliport,PH,14.550482,121.046148,,no
+562352,Eco Plaza Building Heliport,heliport,PH,14.533817,121.023046,,no
+564927,Fort Bonifacio Heliport,heliport,PH,14.533292,121.044402,95.0,no
+564928,Fort Andres Bonifacio Special and Technical Staff Building Heliport,heliport,PH,14.533204,121.045808,95.0,no
+570131,Anahao Airfield,closed,PH,11.25106,125.55406,16.0,no
+570914,Alicante Airfield,closed,PH,10.88918,123.01878,23.0,no
+570915,Cabatuan Airfield,closed,PH,10.84659,122.50579,148.0,no
+570916,Dumarao Airfield,closed,PH,11.26184,122.67536,90.0,no
+571106,Camp Olivas Heliport,heliport,PH,15.01802,120.70255,20.0,no
+571377,Bacoor City Hall Heliport,heliport,PH,14.43177,120.96761,,no
+571383,Asian Star Building Heliport,heliport,PH,14.41967,121.0378,,no
+571387,Jose B Lingad Memorial General Hospital Heliport,heliport,PH,15.03394,120.68487,,no
+571477,Ayala Alabang Heliport,heliport,PH,14.40851,121.01525,154.0,no
+571478,Animal Island Heliport,heliport,PH,14.46809,120.91788,3.0,no
+571485,Island Park Heliport,heliport,PH,14.30078,120.98337,512.0,no
+571610,Capas National Shrine Heliport,heliport,PH,15.3531,120.54492,220.0,no
+571657,Bayleaf Cavite Heliport,heliport,PH,14.28846,120.91639,440.0,no
+571661,First Cavite Industrial Estate Heliport,heliport,PH,14.28675,120.93277,476.0,no
+577108,Ambuklao Dam Heliport,heliport,PH,16.46621,120.73795,3054.0,no
+577109,Binga Dam Heliport,heliport,PH,16.394306,120.729068,1939.0,no
+577110,Gateway Mall Heliport,heliport,PH,14.621939,121.053178,,no
+5733,Bacolod City Domestic Airport,closed,PH,10.64244,122.9296,26.0,no
+302045,Baganga (Lambajon) Airport,closed,PH,7.611944,126.568889,42.0,no
+594052,FDC Misamis Coal Power Plant Heliport,heliport,PH,8.56424,124.74622,7.0,no
+594057,Coast Guard SAR Base Hinobaan Heliport,heliport,PH,9.663452,122.453851,23.0,no
+594070,Baluno Airstrip,closed,PH,6.72611,122.01833,112.0,no
+594114,Canlubang Airstrip,closed,PH,14.18777,121.07021,620.0,no
+594126,Farm 7 Airfield,closed,PH,7.47344,125.84208,118.0,no
+594127,Dansalan Airfield,closed,PH,8.01078,124.27825,2467.0,no
+594128,Camp Ranao Heliport,heliport,PH,8.007904,124.282676,2461.0,no
+594437,Candon Airport (under construction),closed,PH,17.16532,120.44775,23.0,no
+594493,Anakan (Side 2) Airfield,closed,PH,8.84394,125.15737,,no
+594494,Camp Evangelista Heliport,heliport,PH,8.48901,124.62447,66.0,no
+594496,Del Monte Airfield,closed,PH,8.36872,124.83183,,no
+594497,Dalirig Airfield,closed,PH,8.3908,124.92299,,no
+594504,Digos (Daliao) Airfield,closed,PH,6.74756,125.36152,,no
+594506,Calarian Airfield,closed,PH,6.92322,122.03326,,no
+595192,GLAS Tower Heliport,heliport,PH,14.58719,121.06069,,no
+595197,Grand Hyatt Manila Residences South Tower Heliport,heliport,PH,14.55647,121.05183,,no
+595224,Kota Island (Loaita Island) Heliport,heliport,PH,10.66828,114.423556,,no
+605650,DPWH Heliport,heliport,PH,7.603042,125.150553,,no
+605652,Glory Mountain Heliport,heliport,PH,7.087696,125.352548,,no
+605869,Bongao Heliport,heliport,PH,5.029421,119.764366,16.0,no
+606185,Camp Robert Edward M Lucero Heliport,heliport,PH,7.19813,124.7855,118.0,no
+606188,Dole Heliport,heliport,PH,6.08418,125.153348,23.0,no
+606191,FAB Helipad,heliport,PH,14.43898,120.49845,72.0,no
+5438,Isabel PASAR Airport,small_airport,PH,10.912339,124.437856,16.0,no
+31007,El Nido Airport,small_airport,PH,11.202399,119.416087,,yes
+5687,Clark International Airport / Clark Air Base,large_airport,PH,15.186,120.559998,484.0,yes
+324042,Balesin Island Airport,small_airport,PH,14.418624,122.03923,25.0,no
+325947,Cagayan North International Airport,medium_airport,PH,18.182388,121.746223,148.0,no
+32220,Jomalig Island Airport,small_airport,PH,14.704161,122.331133,36.0,no
+336104,Bicol International Airport,large_airport,PH,13.111915,123.676829,319.0,yes
+30869,Cuyo Airport,small_airport,PH,10.8581,121.069,,yes
+336813,Colonel Ernesto Rabina Air Base,small_airport,PH,15.317683,120.422891,564.0,no
+46549,Carmen (Rosales) Airstrip,small_airport,PH,15.885047,120.604602,,no
+5691,Danilo Atienza Air Base,medium_airport,PH,14.4954,120.903999,8.0,no
+32221,Itbayat Jorge Abad Airport,medium_airport,PH,20.722521,121.809969,328.0,yes
+5693,Fort Magsaysay Airport,small_airport,PH,15.4347,121.091003,200.0,no
+32222,Corregidor Airport (Kindley Field),small_airport,PH,14.3913,120.607002,102.0,no
+32223,Alabat Island Airport,small_airport,PH,14.2329,121.929118,6.0,no
+42465,Bacon Community Airport,small_airport,PH,13.00696,124.025942,120.0,no
+5694,Allah Valley Airport,medium_airport,PH,6.367903,124.752431,659.0,no
+5696,Cotabato (Awang) Airport,medium_airport,PH,7.164753,124.209938,189.0,yes
+5697,Francisco Bangoy International Airport,large_airport,PH,7.12552,125.646004,96.0,yes
+5698,Bancasi Airport,medium_airport,PH,8.9515,125.4788,141.0,yes
+5699,Bislig Airport,medium_airport,PH,8.195052,126.321015,12.0,no
+5700,Dipolog Airport,medium_airport,PH,8.601983,123.341875,12.0,yes
+5701,Camiguin Airport,medium_airport,PH,9.253894,124.709115,53.0,yes
+5703,Jolo Airport,medium_airport,PH,6.05367,121.011002,118.0,yes
+5709,General Santos International Airport,large_airport,PH,6.057208,125.096243,505.0,yes
+30818,Cagayan de Sulu Airport,small_airport,PH,7.014,118.496002,,no
+31683,Ipil Airport,small_airport,PH,7.784898,122.6015,,no
+302305,Bantayan Airport,small_airport,PH,11.161748,123.7849,60.0,no
+308149,Cesar Lim Rodriguez (Taytay-Sandoval) Airport,small_airport,PH,11.05065,119.519266,80.0,no
+336116,Bohol-Panglao International Airport,large_airport,PH,9.573045,123.770143,42.0,yes
+5716,Daet Airport,medium_airport,PH,14.1292,122.980003,10.0,no
+5717,Basa Air Base,small_airport,PH,14.98724,120.492554,151.0,no
+32226,Iba Airport,small_airport,PH,15.325898,119.968517,11.0,no
+32227,Castillejos - Jesus F Magsaysay Airfield,small_airport,PH,14.94634,120.190194,200.0,no
+32228,Calapan National Airport,small_airport,PH,13.422641,121.201687,11.0,no
+5720,Basilio Fernando Air Base,small_airport,PH,13.955,121.125,1220.0,no
+5723,Basco Airport,medium_airport,PH,20.4513,121.980003,291.0,yes
+325639,Jose Panganiban (Larap) Airstrip,small_airport,PH,14.293288,122.645659,,no
+5725,Dr. Juan C. Angara Airport,medium_airport,PH,15.729309,121.500034,108.0,no
+32229,Bulan Airport,small_airport,PH,12.6842,123.877998,3937.0,no
+5730,Cauayan Airport,medium_airport,PH,16.9298992157,121.752998352,200.0,yes
+5731,Bagabag Airport,small_airport,PH,16.6192,121.251999,820.0,no
+5732,Daniel Z. Romualdez Airport,medium_airport,PH,11.227761,125.027783,10.0,yes
+35178,Bacolod-Silay International Airport,large_airport,PH,10.776237,123.018879,82.0,yes
+5734,Calbayog Airport,medium_airport,PH,12.072574,124.54508,12.0,yes
+5736,Godofredo P. Ramos Airport,medium_airport,PH,11.9245,121.954002,7.0,yes
+5737,Catarman National Airport,medium_airport,PH,12.50161,124.635258,6.0,yes
+5738,Guiuan Airport,small_airport,PH,11.0354995728,125.741996765,7.0,no
+32231,Hilongos Airport,small_airport,PH,10.37567,124.7611,12.0,no
+5739,Iloilo International Airport,large_airport,PH,10.833017,122.493358,27.0,yes
+5741,Kalibo International Airport,large_airport,PH,11.6794,122.375999,14.0,yes
+309715,Biliran Airport,small_airport,PH,11.5159178299,124.428985119,,no
+5746,Evelio Javier Airport,medium_airport,PH,10.766644,121.932506,23.0,no
+5749,Francisco B. Reyes (Busuanga) Airport,medium_airport,PH,12.121865,120.100801,148.0,yes
+5750,Borongan Airport,small_airport,PH,11.674262,125.479259,7.0,no
+302307,Catbalogan Airport,small_airport,PH,11.810647,124.828806,,no
+302324,Eastern Flying Club Airport,small_airport,TH,12.902439,100.933227,160.0,no
+339376,Khlong Si Airfield,small_airport,TH,14.170617,100.691757,,no
+308758,Klong 15 Airfield,small_airport,TH,14.114705,100.949485,15.0,no
+339379,Chanthaburi Airstrip,small_airport,TH,12.63247,102.02603,72.0,no
+339380,Koh Mai Si Airport,small_airport,TH,11.717453,102.520332,20.0,no
+339964,Khao Khitchakut Heliport,heliport,TH,12.836021,102.168767,,no
+339965,Klaeng Airfield,small_airport,TH,12.709905,101.630542,,no
+339967,Bang Phra Ultralightport,small_airport,TH,13.236033,100.994902,,no
+339968,Ko Chan Airport,small_airport,TH,13.3938,101.32055,,no
+339970,Best Ocean Airpark,small_airport,TH,13.54018,100.32936,,no
+339971,Camp Burachat (Sanam Luang) Airfield,small_airport,TH,13.57376,99.75296,,no
+339972,Kaeng Krachan Airfield,small_airport,TH,12.87173,99.79265,,no
+339975,Khuan Timun Helipad,heliport,TH,6.83411,101.02211,,no
+354701,Banana,small_airport,TH,13.14421,101.106062,,no
+354707,Dropzone Thailand Airport,small_airport,TH,12.6714,101.5476,,no
+354713,Ban Thi Airport,small_airport,TH,18.67614,99.10522,990.0,no
+356370,Ko Pha-ngan Airport,closed,TH,9.741118,100.070686,900.0,no
+429715,Kabin Buri Airport,small_airport,TH,14.021443,101.702989,41.0,no
+429718,Hinzon Airport,small_airport,TH,13.77697,101.61345,,no
+429719,Khanong Phra Airport,small_airport,TH,14.63123,101.4659,,no
+505238,Chiang Mai Airsports,small_airport,TH,18.70403,99.11917,1020.0,no
+507936,Bird's Paradise Airpark,small_airport,TH,17.522045,103.551192,554.0,no
+508579,Dok Rai,small_airport,TH,12.920684,101.183631,186.0,no
+516829,Khlong Luang KASET Heliport,heliport,TH,14.11945,100.620959,16.0,no
+568924,Atlantic,small_airport,TH,12.85511,100.990908,230.0,no
+601238,Kuang Lakorn Army Airfield,closed,TH,8.416496,100.001163,,no
+601964,Hang Chat Airfield,closed,TH,18.355872,99.406958,,no
+601965,Ko Kha Airfield,closed,TH,18.199108,99.413052,,no
+601967,Chiang Klang Airport,closed,TH,19.293955,100.857266,,no
+601968,Kan Emergency Landing Ground,closed,TH,18.665639,100.767031,,no
+604415,Ayudthaya Airfield,small_airport,TH,14.276916,100.647792,,no
+604548,Camp Suranaree Airport,small_airport,TH,14.954251,102.073866,643.0,no
+604550,Kanchanaburi Police Heliport,heliport,TH,14.113861,99.662957,108.0,no
+604772,CAVPAD,heliport,TH,13.772287,100.543468,,no
+26473,Battambang Airport,medium_airport,KH,13.0956,103.223999,59.0,yes
+32569,Kampong Cham Airport,small_airport,KH,12.028657,105.441165,148.0,no
+26474,Kampong Chhnang Airport,closed,KH,12.255032,104.564657,56.0,no
+46543,Koh Kong Airport,small_airport,KH,11.613397,102.997084,,no
+313338,Krakor Airport,small_airport,KH,12.5385,104.1486,62.0,no
+30647,Attopeu Airport,small_airport,LA,14.793056,107.045278,344.0,no
+26582,Ban Huoeisay Airport,small_airport,LA,20.257299,100.436996,1380.0,no
+46218,Duc My Airstrip,closed,VN,12.5384566216,109.007956982,,no
+46318,Bach Mai Heliport,heliport,VN,20.996632,105.832232,,no
+339023,Central Pediatric Institute Helipad,heliport,VN,21.02465,105.80721,,no
+339024,Keangnam Tower A Helipad,heliport,VN,21.018246,105.784203,,no
+339025,Keangnam Tower B Helipad,heliport,VN,21.017639,105.783358,,no
+339026,Keangnam Hanoi Landmark Tower Helipad,heliport,VN,21.016751,105.784181,,no
+430077,Hoa Lac Airfield,small_airport,VN,21.028531,105.487428,128.0,no
+430078,Hai Au Seaplane Base,seaplane_base,VN,20.916443,106.989654,,no
+430080,Ha Long Heliport,heliport,VN,20.96198,107.05843,226.0,no
+430098,Bu Dop Airport,closed,VN,12.02068,106.81091,,no
+430102,Dau Tieng Airport,closed,VN,11.28692,106.36333,,no
+430103,Chon Thanh Airport,closed,VN,11.40283,106.6168,,no
+430107,Dak Mil Airport,closed,VN,12.43221,107.66625,,no
+430108,Can Tho Army Airfield,closed,VN,10.05125,105.76271,7.0,no
+430109,Binh Duong Airport,closed,VN,10.99827,106.69953,,no
+430110,Chau Duc Airport,closed,VN,10.56844,107.18631,,no
+504740,Bãi Vũng Mây 1 (Orleana Shoal) Helipad,heliport,VN,7.70309,111.75218,,no
+504741,Bãi Vũng Mây 2 (Kingston Shoal) Helipad,heliport,VN,7.5348,111.54725,,no
+504742,Bãi Vũng Mây 3 (Bombay Castle Shoal) Helipad,heliport,VN,7.875317,111.744572,,no
+35153,Kontum Airport,closed,VN,14.356075,108.016667,1804.0,no
+302311,Cam Ly Airport,closed,VN,11.950284,108.411005,4937.0,no
+605569,Hoc Mon Regional General Hospital Heliport,heliport,VN,10.882855,106.592317,,no
+26638,Don Mueang International Airport,large_airport,TH,13.9126,100.607002,9.0,yes
+26640,Khao E To Airport,small_airport,TH,14.0778,101.379997,80.0,no
+26641,Kamphaeng Saen Airport,medium_airport,TH,14.1020002365,99.9171981812,30.0,no
+26642,Khok Kathiam Airport,medium_airport,TH,14.87462,100.663397,123.0,no
+32595,Bang Phra Airport,small_airport,TH,13.232426,100.956802,90.0,no
+598124,Koh Takian Airport,small_airport,TH,12.254042,102.518522,-1.0,no
+32596,Chiang Kham Airport,closed,TH,19.5,100.282997,1272.0,no
+26647,Chiang Mai International Airport,large_airport,TH,18.7667999268,98.962600708,1036.0,yes
+26655,Hua Hin Airport,medium_airport,TH,12.6361999512,99.951499939,62.0,yes
+26663,Khunan Phumipol Airport,small_airport,TH,17.2342,99.057899,492.0,no
+26664,Khoun Khan Airport,small_airport,TH,6.6614,100.080002,18.0,no
+26667,Chumphon Airport,medium_airport,TH,10.7112,99.361702,18.0,yes
+26669,Krabi International Airport,large_airport,TH,8.095591,98.988955,82.0,yes
+26673,Cha Eian Airport,medium_airport,TH,8.47115,99.955597,44.0,no
+26676,Hat Yai International Airport,large_airport,TH,6.93321,100.392998,90.0,yes
+26681,Khon Kaen Airport,medium_airport,TH,16.466600418099997,102.783996582,670.0,yes
+26683,Khorat Airport,small_airport,TH,14.934713,102.078945,729.0,no
+26684,Buri Ram Airport,medium_airport,TH,15.2295,103.252998,590.0,yes
+26591,Bien Hoa Air Base,small_airport,VN,10.9766998291,106.818000793,79.0,no
+26592,Haiphong Kien An Airport,small_airport,VN,20.8034,106.605003,50.0,no
+26690,Buon Ma Thuot Airport,medium_airport,VN,12.668299675,108.120002747,1729.0,yes
+26691,Chu Lai Airport,small_airport,VN,15.4033,108.706001,10.0,yes
+26692,Cat Bi International Airport,large_airport,VN,20.817428,106.724315,6.0,yes
+301824,Cà Mau Airport,medium_airport,VN,9.177667,105.177778,6.0,yes
+26693,Cam Ranh International Airport / Cam Ranh Air Base,large_airport,VN,11.9982,109.219002,40.0,yes
+26694,Con Dao Airport,medium_airport,VN,8.73183,106.633003,20.0,yes
+26695,Can Tho International Airport,large_airport,VN,10.083397,105.709371,9.0,yes
+26696,Dien Bien Phu Airport,medium_airport,VN,21.3974990845,103.008003235,1611.0,yes
+35144,Dong Hoi Airport,medium_airport,VN,17.515,106.590556,59.0,yes
+26697,Da Nang International Airport,large_airport,VN,16.0439,108.198997,33.0,yes
+26698,Gia Lam Air Base,medium_airport,VN,21.040501,105.886002,50.0,no
+26699,Kep Air Base,small_airport,VN,21.3946,106.261002,55.0,no
+26707,Dong Tac Airport,medium_airport,VN,13.0496,109.334,20.0,yes
+26710,Ann Airport,small_airport,MM,19.769199,94.0261,74.0,no
+26711,Anisakan Airport,small_airport,MM,21.9554,96.406097,3000.0,no
+26712,Bagan Airport,small_airport,MM,21.178800582885746,94.9301986694336,312.0,yes
+26713,Banmaw Airport,small_airport,MM,24.27044,97.2476,370.0,yes
+32605,Bokpyinn Airport,small_airport,MM,11.1494,98.735901,100.0,no
+26714,Coco Island Airport,small_airport,MM,14.137964,93.367853,20.0,no
+26715,Chanmyathazi Airport,small_airport,MM,21.9405,96.0896,252.0,no
+26716,Dawei Airport,medium_airport,MM,14.1039,98.203598,84.0,yes
+31516,Gangaw Airport,small_airport,MM,22.174699783325195,94.1343994140625,200.0,no
+29930,Gwa Airport,small_airport,MM,17.600000381469727,94.5832977294922,10.0,no
+29949,Hmawbi Air Base,small_airport,MM,17.11669921875,96.06670379638672,69.0,no
+509451,Heho Airport,medium_airport,MM,20.74714,96.792029,3858.0,yes
+26719,Hommalinn Airport,small_airport,MM,24.899599,94.914001,534.0,no
+26720,Kengtung Airport,medium_airport,MM,21.30159950256348,99.63600158691406,2798.0,yes
+31749,Kanti Airport,small_airport,MM,25.9883,95.6744,6000.0,yes
+26721,Kalay Airport,small_airport,MM,23.188801,94.051102,439.0,no
+26722,Kyaukpyu Airport,medium_airport,MM,19.42639923095703,93.53479766845705,20.0,yes
+26723,Kawthoung Airport,medium_airport,MM,10.04930019378662,98.53800201416016,180.0,yes
+30051,Kyauktu Airport,small_airport,MM,21.399999618530277,94.13330078125,1250.0,no
+26735,Hpa-N Airport,small_airport,MM,16.8937,97.674599,150.0,no
+32618,Hpapun Airport,small_airport,MM,18.0666999817,97.449798584,300.0,no
+32625,Kyaukhtu South Airport,small_airport,MM,21.406700134277344,94.13030242919922,1345.0,no
+3268,Aru Airport,small_airport,ID,-6.57342004776001,134.14700317382812,165.0,no
+26746,Frans Kaisiepo Airport,medium_airport,ID,-1.19002,136.108002,46.0,yes
+310163,Akimuga Airstrip,small_airport,ID,-4.6043,137.6576,164.0,no
+31200,Kornasoren Airport,small_airport,ID,-0.935745,134.872292,13.0,no
+41416,Deiyai / Waghete Baru Airport,small_airport,ID,-4.05916,136.281715,1779.0,no
+525702,Douw Aturure Airport,medium_airport,ID,-3.397973,135.393071,22.0,no
+41372,Karubaga Airport,small_airport,ID,-3.684615,138.479018,5200.0,no
+41417,Ilaga Airport,small_airport,ID,-3.97648,137.6225,7989.0,no
+41418,Kokonao Airport,small_airport,ID,-4.71075,136.43515,59.0,no
+41420,Enarotali Airport,small_airport,ID,-3.925739,136.378634,5807.0,no
+310447,Kebo Airstrip,small_airport,ID,-3.8248,136.385844,5845.0,no
+26751,Denpasar I Gusti Ngurah Rai International Airport,large_airport,ID,-8.748409,115.167123,14.0,yes
+46587,Banyuwangi Airport,small_airport,ID,-8.31015,114.3401,112.0,yes
+41445,Emalamo Airport,small_airport,ID,-2.100424,125.965838,11.0,no
+331735,Bua - Palopo Lagaligo Airport,small_airport,ID,-3.08227,120.244823,14.0,yes
+26803,Andi Jemma Airport,small_airport,ID,-2.558031,120.324342,164.0,no
+26771,Kasiguncu Airport,medium_airport,ID,-1.414121,120.659241,174.0,no
+344101,Haji Muhammad Sidik Airport,small_airport,ID,-1.02581,114.92881,145.0,yes
+41395,Jenderal Besar Soedirman Airport,small_airport,ID,-7.461239,109.414124,225.0,no
+42250,Dewadaru Airport,small_airport,ID,-5.80091,110.47838,35.0,yes
+41423,Bokondini Airport,small_airport,ID,-3.68455,138.677437,4550.0,yes
+41368,Dabra Airport,small_airport,ID,-3.27061,138.613433,208.0,no
+41367,Batom Airport,small_airport,ID,-4.442687,140.883565,396.0,no
+26755,Dortheys Hiyo Eluay International Airport,large_airport,ID,-2.579627,140.519857,289.0,yes
+310461,Kiwirok Airstrip,small_airport,ID,-4.713481,140.740271,5470.0,yes
+41433,Bade Airport,small_airport,ID,-7.175902,139.58333,59.0,no
+41434,Agats Airport,small_airport,ID,-5.543288,138.134911,17.0,no
+523309,Bomakia Airport,small_airport,ID,-5.806483,139.867647,30.0,no
+41374,Kamur Airport,small_airport,ID,-6.1851,138.6372,25.0,no
+41436,Kepi Airport,small_airport,ID,-6.54297,139.332401,67.0,no
+35277,Datadawai Airport,small_airport,ID,0.807028,114.529052,508.0,yes
+26762,Juwata International Airport / Suharnoko Harbani AFB,medium_airport,ID,3.325145,117.564169,23.0,yes
+26763,Aji Pangeran Tumenggung Pranoto International Airport,medium_airport,ID,-0.374478,117.250128,82.0,yes
+26765,Bunyu Airport,small_airport,ID,3.45572,117.866997,118.0,no
+31540,Gamarmalamo Airport,small_airport,ID,1.838134,127.786191,157.0,no
+32631,Jailolo/Kuripasai Airport,small_airport,ID,1.1169999837875366,127.48300170898438,50.0,no
+331796,Buli Airport,small_airport,ID,0.917144,128.382116,7.0,no
+26767,Jalaluddin Airport,small_airport,ID,0.637119,122.849998,105.0,yes
+526307,Bolaang Mongondow Airport,small_airport,ID,0.88855,124.033634,28.0,yes
+31523,Gebe Airport,small_airport,ID,-0.078889,129.457993,125.0,no
+31720,Kuabang Airport,small_airport,ID,1.188608,127.896036,40.0,no
+525159,Indonesia Morowali Industrial Park (IMIP) Airport,small_airport,ID,-2.799322,122.141385,24.0,no
+41405,Buol - Pogogul Airport,small_airport,ID,1.102318,121.413358,49.0,yes
+26775,Bersujud Airport,small_airport,ID,-3.41241,115.995003,3.0,yes
+26776,Kota Baru Airport,small_airport,ID,-3.989646,116.101499,197.0,no
+26777,Iskandar Airport,small_airport,ID,-2.7052,111.672997,75.0,yes
+31730,Gusti Syamsir Alam Airport,small_airport,ID,-3.294796,116.163815,4.0,yes
+30623,Amahai Airport,small_airport,ID,-3.347851,128.927093,29.0,no
+32632,Bula Airport,small_airport,ID,-3.10996,130.509995,10.0,no
+41389,Bandanaira Airport,small_airport,ID,-4.5214,129.9054,59.0,no
+333039,Karel Sadsuitubun Airport,medium_airport,ID,-5.760278,132.759444,78.0,yes
+26782,Benjina Airport,small_airport,ID,-6.06613,134.273971,82.0,no
+26783,Dumatubin Airport,small_airport,ID,-5.66162,132.731003,10.0,no
+525299,Kufar Airport,small_airport,ID,-3.462637,130.790593,19.0,no
+595149,Binuang Airport,small_airport,ID,3.773936,115.855914,2523.0,no
+26759,Kalimarau Airport,medium_airport,ID,2.14776,117.430705,59.0,yes
+26785,Abdul Rachman Saleh Airport,medium_airport,ID,-7.929099,112.714233,1726.0,yes
+26786,Iswahjudi Air Base,small_airport,ID,-7.61577,111.433998,361.0,no
+26787,Adisutjipto International Airport,medium_airport,ID,-7.78818,110.431999,379.0,yes
+26788,Adisoemarmo International Airport,large_airport,ID,-7.516044,110.757492,421.0,yes
+26789,Juanda International Airport,large_airport,ID,-7.37983,112.787003,9.0,yes
+26790,Jenderal Ahmad Yani Airport,large_airport,ID,-6.970732,110.373244,10.0,yes
+311868,Harun Thohir Airport,small_airport,ID,-5.723628,112.678889,93.0,no
+41365,Ayawasi Airport,small_airport,ID,-1.159779,132.464082,1560.0,no
+41449,Abresso Airport,small_airport,ID,-1.496667,134.1925,52.0,no
+41450,Kebar Airport,small_airport,ID,-0.810418,133.054937,1878.0,no
+26791,Fakfak Airport,medium_airport,ID,-2.920508,132.267011,462.0,yes
+41451,Inanwatan Airport,small_airport,ID,-2.127447,132.160056,9.0,no
+26793,Babo Airport,medium_airport,ID,-2.53224,133.438995,10.0,no
+32634,Domine Eduard Osok Airport,medium_airport,ID,-0.894,131.287,10.0,yes
+41373,Kambuaya Airport,small_airport,ID,-1.316815,132.286987,1422.0,no
+41475,AA Bere Tallo (Haliwen) Airport,small_airport,ID,-9.074841,124.903285,1027.0,yes
+42249,Bajawa Soa (Turelelo) Airport,small_airport,ID,-8.70777,121.058243,4326.0,no
+26796,Frans Xavier Seda Airport,small_airport,ID,-8.639514,122.238135,115.0,yes
+26797,H. Hasan Aroeboesman (Ende) Airport,small_airport,ID,-8.849114,121.66101,49.0,yes
+26798,Frans Sales Lega Airport,small_airport,ID,-8.596171,120.478177,3510.0,yes
+26799,Alor Island - Mali Airport,small_airport,ID,-8.13234,124.597,10.0,yes
+26800,Komodo Airport,small_airport,ID,-8.480694,119.888306,66.0,yes
+41446,John Becker Airport,small_airport,ID,-8.015716,127.200179,6.0,no
+41481,David Constantijn Saudale Airport,small_airport,ID,-10.765834,123.076046,470.0,yes
+26801,El Tari Airport,medium_airport,ID,-10.1716,123.670998,335.0,yes
+26802,Betoambari Airport,small_airport,ID,-5.486037,122.569823,164.0,no
+523599,Arung Palakka Airport,small_airport,ID,-4.459582,120.310436,130.0,no
+26806,Haluoleo Airport,small_airport,ID,-4.08161,122.417999,538.0,yes
+599544,Bilai Airstrip,small_airport,ID,-3.741405,136.859239,5656.0,no
+26807,Bintulu Airport,medium_airport,MY,3.12385010719,113.019996643,74.0,yes
+30770,Belaga Airport,small_airport,MY,2.652143,113.767043,200.0,no
+26808,Kuching International Airport,large_airport,MY,1.487364,110.352859,89.0,yes
+31770,Kapit Airport,small_airport,MY,2.01052374505,112.931468248,65.0,no
+30764,Bakalalan Airport,small_airport,MY,3.974,115.617996,2900.0,yes
+30682,Bario Airport,medium_airport,MY,3.734648,115.478548,3350.0,yes
+32642,Kota Belud Airport,small_airport,MY,6.36516,116.471001,46.0,no
+31746,Keningau Airport,small_airport,MY,5.355487,116.164884,1036.0,no
+26814,Kota Kinabalu International Airport,large_airport,MY,5.932743,116.049324,10.0,yes
+31785,Kudat Airport,small_airport,MY,6.924111,116.837068,10.0,yes
+32643,Kuala Penyu Airport,small_airport,MY,5.597195,115.582695,6.0,no
+3275,Gading Wonosari Airport,small_airport,ID,-7.916865,110.565354,702.0,no
+605056,Balai Sepuak Airstrip,small_airport,ID,0.450209,111.217012,51.0,no
+46482,Atang Senjaya Airport,small_airport,ID,-6.538819,106.755466,538.0,no
+26857,Japura Airport,medium_airport,ID,-0.352808,102.334999,62.0,no
+333068,Kertajati International Airport,medium_airport,ID,-6.647384,108.165561,134.0,yes
+26823,Budiarto Airport,small_airport,ID,-6.293171,106.57,151.0,no
+26824,Husein Sastranegara International Airport,medium_airport,ID,-6.90063,107.575996,2436.0,yes
+26825,Cakrabhuwana  Airport,small_airport,ID,-6.757,108.538849,89.0,no
+26826,Cibeureum Airport,small_airport,ID,-7.3466,108.246002,1148.0,no
+26828,Hang Nadim International Airport,large_airport,ID,1.12103,104.119003,126.0,yes
+26831,Dabo Airport,small_airport,ID,-0.479611,104.579498,95.0,no
+26832,Halim Perdanakusuma International Airport,large_airport,ID,-6.266989,106.890318,84.0,yes
+32652,Kalijati Airport,small_airport,ID,-6.53139019012,107.658996582,361.0,no
+605120,Gunung Batin Airport,small_airport,ID,-4.706449,105.26393,92.0,no
+26836,Binaka Airport,medium_airport,ID,1.166275,97.705196,20.0,yes
+26837,Aek Godang Airport,medium_airport,ID,1.4001,99.430496,922.0,no
+526312,Jenderal Besar Abdul Haris Nasution Airport,small_airport,ID,0.943995,99.534093,1051.0,no
+309577,Kualanamu International Airport,large_airport,ID,3.637847,98.870566,23.0,yes
+26841,Dr. Ferdinand Lumban Tobing Airport,medium_airport,ID,1.557127,98.887145,33.0,yes
+507992,Alas Leuser Airport,medium_airport,ID,3.391456,97.863726,419.0,yes
+41465,Bengkayang Airport,small_airport,ID,0.8333330154418945,109.48332977294922,294.0,no
+26842,H A S Hanandjoeddin International Airport,small_airport,ID,-2.744109,107.754535,164.0,yes
+595550,Babang Airstrip,small_airport,ID,1.340038,109.911081,135.0,no
+26851,Banding Agung Airport,small_airport,ID,-4.78702,103.932999,2100.0,no
+41467,Kuala Tungkal Airport,small_airport,ID,-0.8166670203208923,103.46666717529295,12.0,no
+26852,Depati Amir Airport,medium_airport,ID,-2.1622,106.139,109.0,yes
+26853,Fatmawati Soekarno Airport,medium_airport,ID,-3.8637,102.338997,50.0,yes
+26854,Gatot Subrato Airport,small_airport,ID,-4.39177,104.401001,450.0,no
+41470,Atung Bungsu Airport,small_airport,ID,-4.0225,103.379167,40.0,no
+31889,Cut Nyak Dhien Airport,medium_airport,ID,4.040998,96.253312,10.0,yes
+41323,Batu Pahat Airstrip,small_airport,MY,1.74666,102.987976,30.0,no
+32660,Benta Airport,small_airport,MY,4.048643,101.985569,250.0,no
+32662,Bidor Airport,small_airport,MY,4.11638879776001,101.28199768066406,128.0,no
+41324,Dungun Airport,small_airport,MY,4.786290168762207,103.38200378417967,22.0,no
+32663,Grik Airport,small_airport,MY,5.432849,101.123658,420.0,no
+32664,Jendarata Airport,small_airport,MY,3.89972,100.948997,8.0,no
+41325,Kuala Kerai Airport,small_airport,MY,5.538680076599121,102.19499969482422,137.0,no
+26863,Kluang Airport,medium_airport,MY,2.04138994217,103.306999207,150.0,no
+26865,Gong Kedak Airport,small_airport,MY,5.79957,102.484001,20.0,no
+26869,Kuantan Airport,medium_airport,MY,3.775389909744263,103.20899963378906,58.0,yes
+26870,Kerteh Airport,medium_airport,MY,4.53722,103.427002,18.0,no
+26874,Kuala Lumpur International Airport,large_airport,MY,2.74558,101.709999,69.0,yes
+41474,Buntok Airport,small_airport,ID,-1.73250997066,114.838996887,59.0,no
+605116,Endomen Airstrip,small_airport,ID,-4.224099,139.881753,3609.0,no
+599480,Kwelamdua Airstrip,small_airport,ID,-4.690176,139.755245,5285.0,no
+608270,Kegata Airstrip,small_airport,ID,-4.045488,135.558913,4947.0,no

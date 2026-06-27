@@ -1,0 +1,97 @@
+ID,airport_name,type,country,lat,long,elevation,service
+353792,Betong International Airport,medium_airport,TH,5.79,101.15,785.0,no
+507227,Dhoho International Airport,medium_airport,ID,-7.749527,111.946831,380.0,yes
+593373,Mandalika International Circuit Heliport,heliport,ID,-8.89364,116.30298,41.0,no
+339963,Dara Sakor International Airport,large_airport,KH,10.914244,103.226652,60.0,yes
+342098,Techo International Airport,large_airport,KH,11.359987,104.921272,20.0,yes
+26476,Siem Reap International Airport,closed,KH,13.410676,103.812074,60.0,no
+430434,Bokeo International Airport,medium_airport,LA,20.323986,100.165392,1175.0,yes
+42456,Hanthawaddy International Airport (under construction),closed,MM,17.3005,96.4276,138.0,no
+603355,Hanthawaddy International Airport (Under Construction),closed,MM,17.300476,96.427308,,no
+504746,Putrajaya International Convention Centre Heliport,heliport,MY,2.893768,101.679261,187.0,no
+325853,Manila International Container Terminal (MICT) Heliport,heliport,PH,14.597028,120.954743,14.0,no
+325972,Clark International Airport South Ramp Heliport,heliport,PH,15.172336,120.545547,,no
+342106,New Manila International Airport (Under Construction),closed,PH,14.742719,120.871831,18.0,no
+343753,Thousand Islands International Airport (under construction),closed,PH,16.14357,120.03444,,no
+5690,Legazpi City International Airport,closed,PH,13.1575,123.735,66.0,no
+5686,Subic Bay International Airport / Naval Air Station Cubi Point,large_airport,PH,14.794833,120.271883,64.0,yes
+5687,Clark International Airport / Clark Air Base,large_airport,PH,15.186,120.559998,484.0,yes
+325947,Cagayan North International Airport,medium_airport,PH,18.182388,121.746223,148.0,no
+5688,Laoag International Airport,large_airport,PH,18.175089,120.531006,25.0,yes
+336104,Bicol International Airport,large_airport,PH,13.111915,123.676829,319.0,yes
+5689,Ninoy Aquino International Airport,large_airport,PH,14.5086,121.019997,75.0,yes
+5697,Francisco Bangoy International Airport,large_airport,PH,7.12552,125.646004,96.0,yes
+5709,General Santos International Airport,large_airport,PH,6.057208,125.096243,505.0,yes
+308633,Laguindingan International Airport,large_airport,PH,8.612203,124.456496,190.0,yes
+5712,Zamboanga International Airport,large_airport,PH,6.92242,122.059998,33.0,yes
+336116,Bohol-Panglao International Airport,large_airport,PH,9.573045,123.770143,42.0,yes
+35178,Bacolod-Silay International Airport,large_airport,PH,10.776237,123.018879,82.0,yes
+5739,Iloilo International Airport,large_airport,PH,10.833017,122.493358,27.0,yes
+5741,Kalibo International Airport,large_airport,PH,11.6794,122.375999,14.0,yes
+5742,Mactan Cebu International Airport,large_airport,PH,10.309261,123.97974,31.0,yes
+5744,Puerto Princesa International Airport / PAF Antonio Bautista Air Base,large_airport,PH,9.742044,118.75911,71.0,yes
+26475,Phnom Penh International Airport,large_airport,KH,11.547155,104.844699,40.0,no
+513482,Siem Reap-Angkor International Airport,large_airport,KH,13.36974,104.223831,191.0,yes
+26478,Sihanouk International Airport,large_airport,KH,10.570557,103.632067,33.0,yes
+26583,Luang Phabang International Airport,large_airport,LA,19.904273,102.167191,955.0,yes
+26584,Pakse International Airport,large_airport,LA,15.133973,105.779871,351.0,yes
+26588,Wattay International Airport,large_airport,LA,17.985052,102.566692,564.0,yes
+342100,Long Thanh International Airport (Under Construction),large_airport,VN,10.772842,107.040596,249.0,no
+26638,Don Mueang International Airport,large_airport,TH,13.9126,100.607002,9.0,yes
+26645,U-Tapao–Rayong–Pattaya International Airport,large_airport,TH,12.6799,101.004997,42.0,yes
+26647,Chiang Mai International Airport,large_airport,TH,18.7667999268,98.962600708,1036.0,yes
+26653,Mae Fah Luang - Chiang Rai International Airport,large_airport,TH,19.952299,99.882896,1280.0,yes
+26669,Krabi International Airport,large_airport,TH,8.095591,98.988955,82.0,yes
+26672,Samui International Airport,large_airport,TH,9.54779,100.061996,64.0,yes
+26674,Phuket International Airport,large_airport,TH,8.113257,98.3174,82.0,yes
+26676,Hat Yai International Airport,large_airport,TH,6.93321,100.392998,90.0,yes
+26678,Udon Thani International Airport,large_airport,TH,17.386186,102.788577,579.0,yes
+26692,Cat Bi International Airport,large_airport,VN,20.817428,106.724315,6.0,yes
+26693,Cam Ranh International Airport / Cam Ranh Air Base,large_airport,VN,11.9982,109.219002,40.0,yes
+26695,Can Tho International Airport,large_airport,VN,10.083397,105.709371,9.0,yes
+26697,Da Nang International Airport,large_airport,VN,16.0439,108.198997,33.0,yes
+26700,Noi Bai International Airport,large_airport,VN,21.221201,105.806999,39.0,yes
+26702,Phu Bai International Airport,medium_airport,VN,16.400628,107.703094,48.0,yes
+26705,Phú Quốc International Airport,large_airport,VN,10.169783,103.99353,37.0,yes
+26708,Tan Son Nhat International Airport,large_airport,VN,10.8188,106.652,33.0,yes
+332254,Van Don International Airport,medium_airport,VN,21.120693,107.41539,24.0,yes
+26727,Mandalay International Airport,large_airport,MM,21.70219993591309,95.97789764404295,300.0,yes
+26717,Nay Pyi Taw International Airport,large_airport,MM,19.623501,96.200996,302.0,yes
+26744,Yangon International Airport,large_airport,MM,16.907300949099998,96.1332015991,109.0,yes
+26745,Sultan Hasanuddin International Airport,large_airport,ID,-5.075539,119.553702,47.0,yes
+26751,Denpasar I Gusti Ngurah Rai International Airport,large_airport,ID,-8.748409,115.167123,14.0,yes
+299629,Lombok International Airport,large_airport,ID,-8.759962,116.278169,319.0,yes
+332202,Yogyakarta International Airport,large_airport,ID,-7.905338,110.057264,24.0,yes
+26755,Dortheys Hiyo Eluay International Airport,large_airport,ID,-2.579627,140.519857,289.0,yes
+26757,Mopah International Airport,medium_airport,ID,-8.523898,140.419693,10.0,yes
+550612,Nusantara International Airport,medium_airport,ID,-1.16053,116.71193,23.0,no
+26760,Sultan Aji Muhammad Sulaiman Sepinggan International Airport,large_airport,ID,-1.268342,116.89452,12.0,yes
+26762,Juwata International Airport / Suharnoko Harbani AFB,medium_airport,ID,3.325145,117.564169,23.0,yes
+26763,Aji Pangeran Tumenggung Pranoto International Airport,medium_airport,ID,-0.374478,117.250128,82.0,yes
+26770,Sam Ratulangi International Airport,large_airport,ID,1.548591,124.92625,264.0,yes
+26779,Syamsudin Noor International Airport,large_airport,ID,-3.440112,114.761209,66.0,yes
+26784,Pattimura International Airport,large_airport,ID,-3.71026,128.089005,33.0,yes
+26787,Adisutjipto International Airport,medium_airport,ID,-7.78818,110.431999,379.0,yes
+26788,Adisoemarmo International Airport,large_airport,ID,-7.516044,110.757492,421.0,yes
+26789,Juanda International Airport,large_airport,ID,-7.37983,112.787003,9.0,yes
+26808,Kuching International Airport,large_airport,MY,1.487364,110.352859,89.0,yes
+26814,Kota Kinabalu International Airport,large_airport,MY,5.932743,116.049324,10.0,yes
+26821,Sultan Syarif Kasim II International Airport / Roesmin Nurjadin AFB,medium_airport,ID,0.458647,101.444321,102.0,yes
+333068,Kertajati International Airport,medium_airport,ID,-6.647384,108.165561,134.0,yes
+26824,Husein Sastranegara International Airport,medium_airport,ID,-6.90063,107.575996,2436.0,yes
+26828,Hang Nadim International Airport,large_airport,ID,1.12103,104.119003,126.0,yes
+26830,Raja Haji Fisabilillah International Airport,medium_airport,ID,0.92397,104.53341,52.0,yes
+26832,Halim Perdanakusuma International Airport,large_airport,ID,-6.266989,106.890318,84.0,yes
+26835,Soekarno-Hatta International Airport,large_airport,ID,-6.12557,106.655998,34.0,yes
+26827,Radin Inten II International Airport,medium_airport,ID,-5.246803,105.182531,282.0,yes
+309577,Kualanamu International Airport,large_airport,ID,3.637847,98.870566,23.0,yes
+26842,H A S Hanandjoeddin International Airport,small_airport,ID,-2.744109,107.754535,164.0,yes
+26847,Supadio International Airport,large_airport,ID,-0.152258,109.404493,10.0,yes
+26858,Minangkabau International Airport,large_airport,ID,-0.785964,100.280384,18.0,yes
+26862,Sultan Iskandar Muda International Airport,large_airport,ID,5.525087,95.41997,65.0,yes
+26873,Senai International Airport,large_airport,MY,1.64131,103.669998,135.0,yes
+26874,Kuala Lumpur International Airport,large_airport,MY,2.74558,101.709999,69.0,yes
+26875,Langkawi International Airport,large_airport,MY,6.32973,99.728699,29.0,yes
+26876,Malacca International Airport,medium_airport,MY,2.265613,102.252778,35.0,yes
+26878,Penang International Airport,large_airport,MY,5.296303,100.276185,11.0,yes
+26879,Sultan Abdul Aziz Shah International Airport,large_airport,MY,3.13058,101.549004,90.0,yes
